@@ -2,18 +2,16 @@
     margin: 0;
     cursor: url('image/cursor'), auto;
 }
-body {
-}
 
 .presentacion {
     background-color: #252525;
-    
 }
 
 .presentacion h2,p{
     padding: 30px;
     color: #f1f1f1;
     text-align: center;
+    font-family: cursive;
 }
 
 .presentacion h2 {   

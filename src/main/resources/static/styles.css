@@ -56,7 +56,7 @@
     padding: 20px 15%;
 }
 
-@media (max-width: 1204px) {
+@media (max-width: 1280px) {
     .fotos {
         padding: 20px 1%;
     }

@@ -56,6 +56,13 @@
     padding: 20px 15%;
 }
 
+@media (max-width: 1204px) {
+    .fotos {
+        padding: 20px 12%;
+    }
+}
+
+
 .fotos img {
     height: 300px;
     width: 300px;
